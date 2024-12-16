@@ -1,2 +1,2 @@
 # New-project
-Welcome to the new post.
+Welcome to the new project.
